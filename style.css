@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
 
 *
 {
@@ -7,14 +7,14 @@
 
 body
 {
-    font-family: 'Muli', sans-serif;
+    font-family: 'Unbounded', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     overflow: hidden;
     margin: 0;
-    background-color: #000;
+    
 }
 
 .heading
@@ -37,7 +37,7 @@ body
     background-repeat: no-repeat;
     height: 80vh;
     border-radius: 50px;
-    color: #fff;
+    color: rgb(189, 28, 154);
     cursor: pointer;
     flex: 0.5;
     margin: 10px;
